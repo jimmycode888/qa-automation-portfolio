@@ -1,5 +1,7 @@
 # QA Automation Portfolio — Booking API
 
+[![tests](https://github.com/jimmycode888/qa-automation-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/jimmycode888/qa-automation-portfolio/actions/workflows/ci.yml)
+
 A small FastAPI service and the automated test suite that guards it.
 The service exists to be tested: it is deliberately built around rules that
 break in interesting ways — input validation, a per-date capacity limit,
